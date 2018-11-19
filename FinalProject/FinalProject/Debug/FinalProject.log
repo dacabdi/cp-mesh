@@ -1,4 +1,6 @@
 ﻿  FinalProject.cpp
-e:\cloudstg\dropbox\univ\graphics\projfinal_meshgeneration\finalproject\finalproject\finalproject.cpp(353): warning C4018: '<': signed/unsigned mismatch
-e:\cloudstg\dropbox\univ\graphics\projfinal_meshgeneration\finalproject\finalproject\finalproject.cpp(357): warning C4018: '<': signed/unsigned mismatch
-  FinalProject.vcxproj -> E:\cloudstg\Dropbox\univ\graphics\projfinal_meshgeneration\FinalProject\Debug\FinalProject.exe
+c:\users\frogmedia\dropbox\univ\graphics\projfinal_meshgeneration\finalproject\finalproject\finalproject.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\frogmedia\dropbox\univ\graphics\projfinal_meshgeneration\finalproject\finalproject\finalproject.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\frogmedia\dropbox\univ\graphics\projfinal_meshgeneration\finalproject\finalproject\finalproject.cpp(539): warning C4018: '<': signed/unsigned mismatch
+c:\users\frogmedia\dropbox\univ\graphics\projfinal_meshgeneration\finalproject\finalproject\finalproject.cpp(567): warning C4018: '<': signed/unsigned mismatch
+  FinalProject.vcxproj -> C:\Users\frogmedia\Dropbox\univ\graphics\projfinal_meshgeneration\FinalProject\Debug\FinalProject.exe

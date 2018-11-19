@@ -1,0 +1,47 @@
+Loading PointClouds\xy_nearly.obj wavefront file...
+Casting and adapting format on 4 points...
+Building an 4 points kdtree using norm2 (euclidean)...
+Estimating planes under a neighborhood radius of 0.2...
+
+POINT 0 : 
+For query point [1.100000,-1.100000,0.011000] with kRadius 0.2
+The neighborhood is the set [[1.100000,-1.100000,0.011000]]
+The centroid is [1.100000,-1.100000,0.011000]
+And the normal is [0.000000,0.000000,1.000000]
+With tag index 0
+
+
+POINT 1 : 
+For query point [0.890000,0.930000,0.090000] with kRadius 0.2
+The neighborhood is the set [[0.890000,0.930000,0.090000]]
+The centroid is [0.890000,0.930000,0.090000]
+And the normal is [0.000000,0.000000,1.000000]
+With tag index 1
+
+
+POINT 2 : 
+For query point [-1.050000,1.100000,0.010000] with kRadius 0.2
+The neighborhood is the set [[-1.050000,1.100000,0.010000]]
+The centroid is [-1.050000,1.100000,0.010000]
+And the normal is [0.000000,0.000000,1.000000]
+With tag index 2
+
+
+POINT 3 : 
+For query point [-1.003000,-0.920000,-0.090000] with kRadius 0.2
+The neighborhood is the set [[-1.003000,-0.920000,-0.090000]]
+The centroid is [-1.003000,-0.920000,-0.090000]
+And the normal is [0.000000,0.000000,1.000000]
+With tag index 3
+
+Building Riemannian Graph of centroids...
+
+Riemannian graph of centroids with w(u,v) = 1-|n_u . n_v| :
+vertex |0               1               2               3               4               5               
+-------+------------------------------------------------------------------------------------------------
+0      |1.79769e+308    1               1.79769e+308    3               1.79769e+308    1.79769e+308    
+1      |1               1.79769e+308    6               5               1               1.79769e+308    
+2      |1.79769e+308    6               1.79769e+308    1.79769e+308    5               2               
+3      |3               5               1.79769e+308    1.79769e+308    1               1.79769e+308    
+4      |1.79769e+308    1               5               1               1.79769e+308    4               
+5      |1.79769e+308    1.79769e+308    2               1.79769e+308    4               1.79769e+308    
